@@ -1,5 +1,4 @@
 import random
-import matplotlib
 
 characterHP = 100
 enemyHP = 100
